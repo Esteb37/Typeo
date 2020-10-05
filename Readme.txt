@@ -1,8 +1,7 @@
 -----------------------------------Type-O--------------------------------------
 
                            -------Project by------
-                           Montserrat Ulloa Barrón
-                           Sofía Carrión Cervantes
+                           Montserrat Ulloa BarrÃ³n
                            Esteban Padilla Cerdio
 
 
@@ -19,7 +18,7 @@ the TypeO Gloves
 
 7zip limits compression for files with certain characters in their names.
 Inside Audio/Keys, you will find a file labled "change_name_to_apostrophe.mp3"
-Please rename it to " ´.mp3 " in order for the application to find the file.
+Please rename it to " Â´.mp3 " in order for the application to find the file.
 
 -------------------------------------------------------------------------------
 
